@@ -8,6 +8,9 @@ This is an android app to be able to read ELF files.
 - [Optional] If you want to clear the Output click on "Clear Output".
 - Video demo [HERE](https://youtu.be/Ip6jEzpThuA)
 
+##
+- ![](https://apt.izzysoft.de/fdroid/index/apk/com.mastergames.elfreader)
+
 # Screenshots for app
 ![Preview APP_1](https://i.imgur.com/9JHIDWD.png)
 
@@ -15,6 +18,3 @@ This is an android app to be able to read ELF files.
 
 ## Credits :
 - [**Linux manual page**](https://www.man7.org/linux/man-pages/man5/elf.5.html)
-
-##
-- ![](https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png)
