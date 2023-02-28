@@ -15,3 +15,6 @@ This is an android app to be able to read ELF files.
 
 ## Credits :
 - [**Linux manual page**](https://www.man7.org/linux/man-pages/man5/elf.5.html)
+
+##
+- ![](https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png)
