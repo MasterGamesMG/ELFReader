@@ -9,7 +9,7 @@ This is an android app to be able to read ELF files.
 - Video demo [HERE](https://youtu.be/Ip6jEzpThuA)
 
 ##
-- ![Link for IzzOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.mastergames.elfreader)
+- [Link for IzzOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.mastergames.elfreader)
 
 # Screenshots for app
 ![Preview APP_1](https://i.imgur.com/9JHIDWD.png)
